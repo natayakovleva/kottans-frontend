@@ -2,7 +2,7 @@
 
 ## **General**
 
-### Git Basics
+### 0. Git Basics
 
 I have never used Git before, so it was very educational. 
 
@@ -24,8 +24,18 @@ Results:
 
 ____
 
+### 1. Linux CLI, and HTTP
 
+<details><summary>Linux Survival</summary>
 
+![Linux_Survival](https://github.com/natayakovleva/kottans-frontend/blob/main/task_linux_cli/Linux_Survival.png?raw=true)
+
+</details>
+
+I’ve never been interested Linux before. So again, this was new to me. 
+As for HTTP, think I’ll get back to it, because I understood everything quite superficially. And of course I assume that this knowledge will be useful in the future.
+
+____
 
 
 
