@@ -58,3 +58,26 @@ ____
 I learned a lot from studying materials on this topic. Of course I am sure that this information will be useful in the future. I have not felt confident in this topic yet, think only practice can help me))
 
 ____
+
+## **Front-End Basics**
+
+### 3. Intro to HTML and CSS
+
+<details><summary>Introduction to Responsive Design (Intro to HTML & CSS)</summary>
+
+   1. ![IntroductionHTML&CSS_1](https://github.com/natayakovleva/kottans-frontend/blob/main/task_html_css_intro/IntroductionHTML&CSS_1.png?raw=true)
+   2. ![IntroductionHTML&CSS_2](https://github.com/natayakovleva/kottans-frontend/blob/main/task_html_css_intro/IntroductionHTML&CSS_2.png?raw=true)
+
+</details>
+
+
+<details><summary>Learn HTML and CSS (codecademy.com)</summary>
+
+   ![LearnHTML&CSS](https://github.com/natayakovleva/kottans-frontend/blob/main/task_html_css_intro/LearnHTML&CSS.png?raw=true)
+
+</details>
+
+
+These were very useful materials. I repeated the forgotten tags that I rarely used. And also learned a couple of new tags and css properties. 
+
+_____
