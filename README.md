@@ -81,3 +81,17 @@ ____
 These were very useful materials. I repeated the forgotten tags that I rarely used. And also learned a couple of new tags and css properties. 
 
 _____
+
+### 4. Responsive Web Design
+
+<details><summary>Flexbox and Grid</summary>
+
+   1. ![Flexbox_Froggy](https://github.com/natayakovleva/kottans-frontend/blob/main/task_responsive_web_design/Flexbox_Froggy.png?raw=true)
+   2. ![Grid_Gaeden](https://github.com/natayakovleva/kottans-frontend/blob/main/task_responsive_web_design/Grid_Garden.png?raw=true)
+
+</details>
+
+I have never used Grid before. So it was something totally new to me. And the article "Responsive web design basics" helped to understand that I need to spend more time on this topic in the future. 
+
+_____
+
